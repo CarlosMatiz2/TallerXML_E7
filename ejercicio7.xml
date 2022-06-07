@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--<!DOCTYPE cantidad SYSTEM "ejercicio7.dtd">
+<cantidad>-->
+<cantidad xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ejercicio7.xsd">
+    30
+</cantidad>

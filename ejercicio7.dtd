@@ -1,0 +1,5 @@
+<!ELEMENT cantidad (#PCDATA)>
+
+<!-- No se encontró la forma de validar un rango de valores
+ por medio de DTD, ya que se encuentra como problema que el DTD
+ no tiene un tipo de dato numérico-->
